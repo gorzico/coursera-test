@@ -1,0 +1,47 @@
+body	{
+	font-size:	16px;
+	color:	black;
+	background-color:	white;
+}
+
+h1	{
+	font-size:	2em;
+}
+
+h2	{
+	font-size:	1.5em;
+	margin-bottom:	25px;
+}
+
+h3	{
+	font-size:	1.25em;
+}
+#mainsection	{
+		background-color:	#D3D3D3;
+		margin:	1px,solid,black;
+		height:	1000px;
+}
+
+
+#mynav #brand 	{
+	width:	100%;
+	background-color:	#D3D3D3;
+}
+#nav-list {
+  margin-top: 10px;
+  color:	black;
+}
+#nav-list a {
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  margin: 1px solid black;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
