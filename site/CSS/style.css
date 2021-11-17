@@ -9,7 +9,7 @@ h1 {
     font-weight:300;
     letter-spacing: 2px;
     font-size:48px;
-    color: blue;
+    color:#00487C;
 }
 
 p {
@@ -23,9 +23,9 @@ p {
     position:relative;
     text-align:center;
     background: linear-gradient(60deg,
-    rgb(62, 62, 62) 0%,
-    rgb(245, 245, 245) 100%);
-    color:00487C;
+    /*rgb(62, 62, 62) 0%,
+    rgb(245, 245, 245) 100%);*/
+    color:#EA9010;
 }
 
 .inner-header {
