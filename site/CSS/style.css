@@ -9,7 +9,11 @@ h1 {
     font-weight:300;
     letter-spacing: 2px;
     font-size:48px;
+<<<<<<< HEAD
     color:#00487C;
+=======
+    color: #00487C;
+>>>>>>> 807b3b4622b39b1b8372eab1ab71f18bca1347c0
 }
 
 p {
@@ -23,9 +27,15 @@ p {
     position:relative;
     text-align:center;
     background: linear-gradient(60deg,
+<<<<<<< HEAD
     /*rgb(62, 62, 62) 0%,
     rgb(245, 245, 245) 100%);*/
     color:#EA9010;
+=======
+    rgb(62, 62, 62) 0%,
+    rgb(245, 245, 245) 100%);
+    color: #00487C;
+>>>>>>> 807b3b4622b39b1b8372eab1ab71f18bca1347c0
 }
 
 .inner-header {
