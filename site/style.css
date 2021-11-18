@@ -13,9 +13,18 @@ h1 {
 
 p {
     font-family: 'Roboto', serif;
-    letter-spacing: 1px;
-    font-size:14px;
+    letter-spacing: 2px;
+    font-size:30px;
+    font-weight: bold;
     color: #044B7F;
+    text-align: center;
+}
+span{
+    font-family: 'Roboto', serif;
+    letter-spacing: 2px;
+    font-size:20px;
+    color: #044B7F;
+    text-align: center;
 }
 
 .header {
@@ -28,7 +37,7 @@ p {
 }
 
 .inner-header {
-    height:65vh;
+    height:30vh;
     width:100%;
     margin: 0;
     padding: 0;
@@ -37,7 +46,6 @@ p {
 .flex {
     display: flex;
     justify-content: center;
-    align-items: center;
     text-align: center;
 }
 
@@ -56,6 +64,7 @@ p {
     text-align:center;
     background-color: #24b7ec;
 }
+
 
 /* Animation */
 
