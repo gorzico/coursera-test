@@ -15,7 +15,7 @@ p {
     font-family: 'Roboto', serif;
     letter-spacing: 1px;
     font-size:14px;
-    color: #333333;
+    color: #044B7F;
 }
 
 .header {
@@ -24,7 +24,7 @@ p {
     background: linear-gradient(60deg,
     rgb(62, 62, 62) 0%,
     rgb(245, 245, 245) 100%);
-    color: #000000;
+    color: #044B7F;
 }
 
 .inner-header {
